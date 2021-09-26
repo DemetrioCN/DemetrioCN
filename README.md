@@ -4,5 +4,5 @@
 **DemetrioCN/DemetrioCN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 📉 Jr Data Scientist
+- 📉 Data Scientist
 - 📫 How to reach me: [Twitter](https://twitter.com/demetrio_cn)
